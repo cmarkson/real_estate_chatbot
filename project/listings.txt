@@ -1,0 +1,27 @@
+Original Listings:
+
+---Property: 12
+
+Description: This spacious 4-bedroom, 3-bathroom home in Greenfield offers a perfect blend of comfort and style. The open floor plan includes a large living room with a fireplace, a formal dining area, and a modern kitchen with stainless steel appliances and granite countertops. The master suite features a walk-in closet and a luxurious bathroom with a soaking tub and separate shower. The backyard is perfect for entertaining, with a covered patio and a beautifully landscaped garden.
+
+---Property: 7
+
+Description: This delightful 3-bedroom, 2-bathroom home in Meadowbrook offers a cozy and inviting atmosphere. The spacious living room features a beautiful fireplace, perfect for chilly evenings. The modern kitchen is equipped with stainless steel appliances and granite countertops. The master bedroom includes an en-suite bathroom with a luxurious soaking tub. Enjoy the large backyard, ideal for family gatherings and outdoor activities.
+
+---Property: 6
+
+Description: This charming 3-bedroom, 2.5-bathroom home in Oakwood offers a perfect blend of modern amenities and classic charm. The spacious living room features a fireplace and large windows that let in plenty of natural light. The kitchen is equipped with high-end appliances, granite countertops, and a breakfast nook. The master suite includes a walk-in closet and a spa-like bathroom with a soaking tub and separate shower. The backyard offers a large patio and a beautifully landscaped garden, perfect for entertaining.
+
+
+####
+Modified Listings: 
+
+Property 12: 
+Step into luxury with this spacious 4-bedroom, 3-bathroom home in Greenfield. The open floor plan is perfect for entertaining, featuring a large living room with a cozy fireplace, a formal dining area, and a modern kitchen with stainless steel appliances and stunning granite countertops. The master suite is a true retreat, boasting a walk-in closet and a luxurious bathroom with a soaking tub and separate shower. Outside, the backyard oasis awaits with a covered patio and beautifully landscaped garden, ideal for hosting gatherings in style.
+
+Property 7:
+Welcome home to this delightful 3-bedroom, 2-bathroom residence in Meadowbrook. The spacious living room is the heart of the home, complete with a charming fireplace for cozy evenings. The modern kitchen is a chef's dream, equipped with stainless steel appliances and elegant granite countertops. The master bedroom offers a luxurious en-suite bathroom with a relaxing soaking tub. Outside, the large backyard beckons for family gatherings and outdoor fun, providing the perfect setting for making lasting memories.
+
+Property 6:
+Experience the perfect blend of modern amenities and classic charm in this charming 3-bedroom, 2.5-bathroom home in Oakwood. The spacious living room is bathed in natural light, featuring a cozy fireplace for relaxing evenings. The kitchen is a culinary haven, boasting high-end appliances, granite countertops, and a cozy breakfast nook. The master suite is a sanctuary, offering a walk-in closet and a spa-like bathroom with a luxurious soaking tub and separate shower. Step outside to the inviting backyard, complete with a large patio and beautifully landscaped garden, creating an ideal space for entertaining friends and family.
+
